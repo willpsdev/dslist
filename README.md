@@ -12,43 +12,51 @@ AA aplicação envolve a criação de uma lista de jogos dentro de uma plataform
 
 Este é o modelo de domínio utilizado para o projeto.
 
-![Modelo Conceitual](https://github.com/DeivinsonPereira/dslist/blob/main/assets/dslist-model.png)
+![Modelo Conceitual](![dslist-model](https://github.com/user-attachments/assets/6e1d654e-17b6-4db6-959b-dfb62a99bdf8)
+)
 
 ## Get Games
 
 Captura dos jogos cadastrados no banco de dados.
 
-![Get Games](https://github.com/DeivinsonPereira/dslist/blob/main/assets/postman-get-games.png)
+![Get Games](![postman-get-games](https://github.com/user-attachments/assets/355965ea-b618-439b-a059-55a448a753f7)
+)
 
 ## Get Games By Id
 
 Captura do jogo identificado pelo id dentro do banco de dados.
 
-![Get Games By Id](https://github.com/DeivinsonPereira/dslist/blob/main/assets/postman-get-by-id.png)
+![Get Games By Id](![postman-get-by-id](https://github.com/user-attachments/assets/944e058e-840d-41d1-b542-7277639934b3)
+)
 
 ## Get List
 
 Captura das listas(categorias de jogos) salvas no banco de dados.
 
-![Get List](https://github.com/DeivinsonPereira/dslist/blob/main/assets/postman-get-list.png)
+![Get List](![postman-get-list](https://github.com/user-attachments/assets/4849af16-ae59-4cb8-8a4b-b2b0928789dd)
+)
 
 ## Get List By Id
 
 Captura dos jogos referente ao id da lista(categoria) em que eles pertencem.
 
-![Get List By Id](https://github.com/DeivinsonPereira/dslist/blob/main/assets/postman-get-list-by-id.png)
+![Get List By Id](![postman-get-list-by-id](https://github.com/user-attachments/assets/a1ed9be4-8d32-4c6d-9293-3ec7a0d62011)
+)
 
 ## Movendo os jogos dentro da lista
 
 Movendo os jogos dentro da lista modificando o id.
 
-![Move Game 1](https://github.com/DeivinsonPereira/dslist/blob/main/assets/h1-2.png)![Move Game 2](https://github.com/DeivinsonPereira/dslist/blob/main/assets/h2-2.png)
+![Move Game 1](![h1-2](https://github.com/user-attachments/assets/7b4cf108-dcf1-496f-84b5-1ed8649e53b9)
+)![Move Game 2](![h2-2](https://github.com/user-attachments/assets/fce2ab63-5472-4837-8ba4-92147dec9232)
+)
 
 ## Homologação PostgreSQL
 
 Após a relização dos testes no banco H2 os dados foram homologados para o Banco Postgres.
 
-![Homolog Postgres](https://github.com/DeivinsonPereira/dslist/blob/main/assets/postgres.png)
+![Homolog Postgres](![image](https://github.com/user-attachments/assets/a9b8a197-2c24-487e-9aa0-db684a422bad)
+)
 
 
 # Tecnologias utilizadas
